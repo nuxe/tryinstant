@@ -1,4 +1,4 @@
-var terms = ["Electricians", "Plumbers  ", "Carpenters", "Contractors"];
+var terms = ["Beauticians", "Electricians", "Plumbers  ", "Carpenters", "Contractors"];
 
 function rotateTerm() {
   var ct = $("#rotate").data("term") || 0;
