@@ -47,6 +47,17 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+  font-family: "GothamRnd-Book";
+  src: url('../fonts/GothamRnd-Book.otf');
+
+}
+@font-face {
+  font-family: "GothamRnd-Medium";
+  src: url('../fonts/GothamRnd-Medium.otf');
+
+}
 /* Use the following CSS code if you want to use data attributes for inserting your icons */
 [data-icon]:before {
   font-family: 'Flat-UI-Icons';
